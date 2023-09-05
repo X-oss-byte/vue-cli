@@ -163,5 +163,7 @@ export default {
   store,
   name: 'App',
   // ...
+appwrite : edit app true
 }
-```
+``
+
